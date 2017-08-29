@@ -39,3 +39,8 @@ h4 {
   background: #212529;
   color: white;
 }
+
+.small {
+  font-size: .8rem;
+  margin-top: 4rem;
+}
